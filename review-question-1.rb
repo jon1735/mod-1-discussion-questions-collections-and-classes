@@ -1,5 +1,8 @@
 ## QUESTION 1
 
+pokemon[0].abilities.ability.url
+
+
 pokemon = [
   {
     "id": 1,
